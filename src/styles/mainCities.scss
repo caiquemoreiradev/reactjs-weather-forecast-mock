@@ -1,0 +1,36 @@
+div.main__cities__container {
+
+    display: flex;
+    justify-content: center;
+
+    margin-top: 20px;
+
+    padding: 16px;
+
+    div.main__cities__table {
+
+        h2 {
+
+            color: #fff;
+            font-size: 32px;
+        }
+
+        table {
+
+            padding: 10px 0;
+
+            tbody {
+
+                tr {
+
+
+                    td {
+
+                        text-align: center;
+                    }
+                }
+            }
+        }
+    }
+
+}
